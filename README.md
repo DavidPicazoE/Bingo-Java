@@ -2,7 +2,7 @@
 A simple Bingo game developed in Java, featuring number generation and card checking.  
 
 ## 📸 Screenshot  
-![Bingo Java Screenshot](https://github.com/DavidPicazoE/Bingo-Java/blob/main/assets/bingo.jpeg)  
+![Bingo Java Screenshot](https://github.com/DavidPicazoE/Bingo-Java/blob/main/assets/bingoGame.png)  
 
 ## 🚀 Features  
 - Random number generation  
